@@ -5,7 +5,7 @@ number headings: first-level 3, max 6, 1.1
 ---
 
 ## 思维导图
-![|525x319](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304949.webp)
+<img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304949.webp" alt="|124x74" style="zoom: 67%;" />
 
 ## 背景  
 
@@ -27,23 +27,30 @@ https://www.youtube.com/watch?v=f7h6cagz4TE&list=PLw3YmQF-9sPNMtYSo64g1EENDjougc
 ### 1 Zotero是什么?
 
 - 存储各类文件，强大的分类管理、标签管理功能，开源软件
-    
+
+
+<br/>
 
 适合整合信息、文档管理
 
 - 统一汇集资料，网页、文档、笔记
 - 管理分类、标签功能
 - 插件市场，联动Obsidian
-    
+  
+
+<br/>
 
 适合科研
 
 - 下载论文方便
 - 管理论文清晰
 - 阅读论文方便
-    
+  
 
-![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304950.webp)
+<img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304950.webp" alt="|788x454" style="zoom: 50%;" />
+
+
+<br/>
 
 ### 2 Zotero的核心优点
 
@@ -52,21 +59,25 @@ https://www.youtube.com/watch?v=f7h6cagz4TE&list=PLw3YmQF-9sPNMtYSo64g1EENDjougc
 - 分类强大
 - 易于笔记
 - 断点续写
-    
+  
+
+<br/>
 
 **不限格式**  
-![|615x335](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304951.webp)
+![|448x243](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304951.webp)
 
+<br/>
 
-分类强大
+**分类强大**
 
 - Zotero的分类菜单是没有层级数量限制的，可以无限层级，非常方便
 - 允许一个文件一个条目，**保存到不同分类**下
 
 ![|448x362](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304952.webp)
 
+<br/>
 
-标签
+**标签**
 目前还不支持多层级标签,但可以通过Style插件实现 [Zotero插件：Ethereal Style](Zotero插件：Ethereal%20Style.md)  
 ![|615x362](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304953.webp)
 
@@ -86,12 +97,18 @@ https://www.youtube.com/watch?v=f7h6cagz4TE&list=PLw3YmQF-9sPNMtYSo64g1EENDjougc
 
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304961.webp)
 
+<br/>
+
 ### 3 Zotero的界面结构
 
 Zotero界面主要分为上方、左侧、中间、右侧。
 
+<br/>
+
 Mac界面：  
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304962.webp)
+
+<br/>
 
 Window Zotero 7.0最新界面：  
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304963.webp)
@@ -101,7 +118,9 @@ Window Zotero 7.0最新界面：
     关闭左侧标签区域的方法：点击菜单的查看-点击布局-点击标签选择器
 - **中间**是条目列表，一个条目下是可以包括多个文件、多个笔记。
 - **右侧**是文件属性，也是笔记编辑区域，包括了条目的名称、属性、字段等等，可以在选中文件或笔记后输入，文本区域是支持Markdown的。
-    
+  
+
+<br/>
 
 ### 4 隐藏或显示左右区域
 
@@ -112,16 +131,22 @@ Window Zotero 7.0最新界面：
 
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304965.webp)
 
+<br/>
+
 **左侧隐藏与显示**：
 
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304966.webp)
 
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304967.webp)
 
+<br/>
+
 ### 5 PDF阅读界面结构
 
 Mac界面：  
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304968.webp)
+
+<br/>
 
 Window Zotero 7.0最新界面：  
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304969.webp)
@@ -129,9 +154,12 @@ Window Zotero 7.0最新界面：
 - **左侧**是画线文字和笔记标注。
 - **右侧**属于辅助区域，可以进行笔记列表的展示。
 - **中间** PDF可以边阅读边划线，颜色与左侧笔记标注是一一对应的。
-    
+
+
+<br/>
 
 ### 6 如何添加文档
+
 
 #### 6.1 第一种方式
 
@@ -143,6 +171,9 @@ Window Zotero 7.0最新界面：
 
 直接点"手动录入"，相当于把原来的文档名称新建为这个条目的群组名称。
 
+
+<br/>
+
 #### 6.2 第二种方式
 
 Mac界面：  
@@ -150,14 +181,18 @@ Mac界面：
 
 点击"文档"，输入文档名字。选中文档，点击添加附件图标，选择"附加文件副本"，再从电脑资源管理器中选择文档。
 
+
+<br/>
+
 Window Zotero 7.0最新界面：  
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025304973.webp)  
 添加"文档"，文档命名后选中右键，选择"添加附件"->"文件"。
 
+<br/>
 
 注：本文截图主要来自Youtube **@lichangtai** 的Zotero入门完整教程，如有侵权，请联系删除。
 
-**↓**如果觉得本文还不错**『****点个赞****』**支持下呗
+↓如果觉得本文还不错『点个赞』支持下呗
 
 我这小破号会更努力更新哒~
 

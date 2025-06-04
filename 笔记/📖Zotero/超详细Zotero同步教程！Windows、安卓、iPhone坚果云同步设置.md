@@ -10,22 +10,25 @@ notechain:
 number headings: first-level 3, max 6, 1.1
 ---
 
-![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658913.webp)
+<img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658913.webp" style="zoom: 50%;" />
 
 ## 本文目录
 
-![|448x316](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658914.webp)
+<img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658914.webp" alt="|448x316" style="zoom: 43%;" />
 
 
 ## Zotero 数据同步介绍
 
-![|525x462](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658915.webp)
+<img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658915.webp" alt="|525x462" style="zoom: 43%;" />
+
+<br/>
 
 两种同步方法：强烈推荐坚果云WebDAV同步
 
 - Zotero：官方同步
 - WebDAV：第三方的同步服务
-    
+
+<br/>
 
 价格对比：  
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658916.webp)
@@ -35,18 +38,30 @@ number headings: first-level 3, max 6, 1.1
 ## Zotero 官方同步
 
 设置：  
-![|525x515](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658917.webp)
+<img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658917.webp" alt="|525x515" style="zoom: 43%;" />
+
+<br/>
 
 购买 Zotero 官方付费同步：注意需要 VISA 卡进行购买  
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658918.webp)
+
+<br/>
+
+
 
 ## 坚果云WebDAV同步
 
 坚果云的普通用户每月最多可上传1GB文件，下载3GB文件，一般也够用了。  
 ![](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658919.webp)
 
+<br/>
+
+
+
 Mac界面：  
-![|525x615](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658920.webp)
+<img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658920.webp" alt="|525x615" style="zoom:45%;" />
+
+
 
 划重点
 
@@ -105,7 +120,7 @@ Windows界面：
 
 - Github网址：https://github.com/northword/zotero-android-nightly-build
 - 没法翻墙的小伙伴，可以关注本公众号"祁玉笔记"，发送关键字"**zotero**"获取安装包
-    
+  
 
 ![|525x567](https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658932.webp)
 
@@ -155,7 +170,7 @@ ipad平板我还没安装Zotero，WebDAV设置应该也一样填就行，安卓�
     https://www.youtube.com/watch?v=xo2ev2lsFDc&list=PLw3YmQF-9sPNMtYSo64g1EENDjougcbDN&index=26
     
 - 博主：https://www.youtube.com/@lichangtai
-    
+  
 
 注：本文截图主要来自Youtube @lichangtai 的Zotero入门完整教程，如有侵权，请联系删除。
 
