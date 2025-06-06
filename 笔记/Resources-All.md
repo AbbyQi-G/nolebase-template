@@ -1,9 +1,11 @@
 ---
-up: []
+up: 
+aliases:
+  - 资源大全（粉丝专享完整版）【祁玉笔记】
 tags:
   - Software/ByName/微信公众号平台/资源/粉丝完整版
 source:
-  - https://obsius.site/2s0o5f3w532m0o5o6w15
+  - https://abbyqi.netlify.app/笔记/Resources-All.html
 link: https://abbyqi.notion.site/1cf746ca87d6817dac29f5c1fb563909
 notionID: 1cf746ca-87d6-817d-ac29-f5c1fb563909
 ---

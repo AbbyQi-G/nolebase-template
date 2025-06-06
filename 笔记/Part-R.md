@@ -3,9 +3,11 @@ tags:
   - Software/ByName/微信公众号平台/资源/部分版
 up: 
 source:
-  - https://abbyqi.netlify.app/笔记/📱好用推荐/资源（部分版）：软件+网课链接.html
-  - "[[Part-R]]"
-description: 以 Part-R 为准
+  - https://abbyqi.netlify.app/笔记/Part-R.html
+  - https://abbyqi.netlify.app/%E7%AC%94%E8%AE%B0/Part-R.html
+related:
+  - "[[📱好用推荐/资源（部分版）：软件+网课链接|资源（部分版）：软件+网课链接]]"
+description: 以此为准>好用推荐下的部分资源，公众号发布此链接
 link: https://abbyqi.notion.site/1cf746ca87d681c29c61f6a1fb870d6b
 notionID: 1cf746ca-87d6-81c2-9c61-f6a1fb870d6b
 ---

@@ -1,21 +1,32 @@
 ---
+aliases:
+  - 扫描二维码关注⌈祁玉笔记⌋
 NextNote: 
-PrevNote: "[[🏠主页/主页]]"
+PrevNote: "[[🏠总索引（点这）]]"
+number headings: first-level 3, max 6, _.1.1
+source:
+  - https://abbyqi.netlify.app/笔记/
+  - https://abbyqi.netlify.app/%E7%AC%94%E8%AE%B0/
 ---
+# 概览
 
-## 📒 祁玉笔记
+# 🏠总索引
+导航页（🖱鼠标悬停可预览）：[[🏠总索引（点这）]]
+
+
+## 📒 ⌈祁玉笔记⌋ 公众号
 
 <img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658913.webp" style="zoom: 50%;" />
 
-### 扫码关注公众号
+### 1 扫码关注
 
 <img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250604234008393.webp" style="zoom:50%;" />
 
 ---
 
-### 粉丝群（限时免费进）
+### 2 粉丝群（限时免费进）
 
-#### 简单说明
+#### 2.1 简单说明
 
 （过期了就加我微信让我拉进去）
 
@@ -23,7 +34,8 @@ PrevNote: "[[🏠主页/主页]]"
 
 <br/>
 
-
+资源（部分版）：软件+网课链接  <br/>
+[资源（部分版）](Part-R.md)
 
 现有的资源大全（粉丝专享完整版）目录：
 <img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250408131420749.webp" alt="|238x558" style="zoom: 67%;" />
@@ -33,14 +45,11 @@ PrevNote: "[[🏠主页/主页]]"
 
 
 
-#### 如何进群
+#### 2.2 如何进群
 
 加我微信让我拉你
-<img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250408105036154.webp" alt="|205x290" style="zoom: 33%;" />
 
 <br/>
-
-
 
 <img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250408161108179.webp" alt="|205x281" style="zoom: 25%;" />
 <br/>
