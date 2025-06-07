@@ -46,11 +46,8 @@ source:
 #### 2.2 如何进群
 
 加我微信让我拉你
-<img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250408105036154.webp" alt="|205x290" style="zoom: 33%;" />
 
 <br/>
-
-
 
 <img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250408161108179.webp" alt="|205x281" style="zoom: 25%;" />
 <br/>
