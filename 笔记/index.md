@@ -2,7 +2,7 @@
 aliases:
   - 扫描二维码关注⌈祁玉笔记⌋
 NextNote: 
-PrevNote: "[[🏠总索引（点这）]]"
+PrevNote: 
 number headings: first-level 3, max 6, _.1.1
 source:
   - https://abbyqi.netlify.app/笔记/
