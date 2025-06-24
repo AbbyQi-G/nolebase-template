@@ -8,6 +8,7 @@ NextNote: "[[Zotero7.0详细版入门教程！]]"
 notechain:
   level: 
 number headings: first-level 3, max 6, 1.1
+dg-publish: true
 ---
 
 <img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658913.webp" style="zoom: 50%;" />

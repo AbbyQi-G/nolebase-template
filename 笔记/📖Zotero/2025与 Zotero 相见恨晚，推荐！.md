@@ -2,6 +2,7 @@
 PrevNote: "[[🔖索引-Zotero]]"
 NextNote: "[[超详细Zotero同步教程！Windows、安卓、iPhone坚果云同步设置]]"
 number headings: first-level 3, max 6, 1.1
+dg-publish: true
 ---
 <img src="https://imgs-1302581161.cos.ap-guangzhou.myqcloud.com/ob/20250605025658913.webp" style="zoom: 50%;" />
 
