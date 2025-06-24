@@ -6,7 +6,6 @@ tags:
 PrevNote: "[[Zotero+Word 在Word中插入引注和参考文献]]"
 NextNote: 
 number headings: first-level 3, max 6, 1.1
-dg-publish: true
 ---
 
 ![](https://cdn.jsdelivr.net/gh/AbbyQi-G/Obsidian_tuchuang/github/20250301220757421.webp)

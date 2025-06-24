@@ -8,7 +8,6 @@ PrevNote: "[[Zotero7.0详细版入门教程！]]"
 notechain:
   level: 
 number headings: first-level 2, max 6, 1.1
-dg-publish: true
 ---
 
 ![](https://cdn.jsdelivr.net/gh/AbbyQi-G/Obsidian_tuchuang/github/20250301220757421.webp)

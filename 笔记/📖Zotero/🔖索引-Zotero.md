@@ -3,7 +3,6 @@ NextNote: "[[2025与 Zotero 相见恨晚，推荐！]]"
 PrevNote: 
 notechain:
   level: 
-dg-publish: true
 ---
 
 1. [2025与 Zotero 相见恨晚，推荐！](2025与%20Zotero%20相见恨晚，推荐！.md)

@@ -6,8 +6,8 @@ related:
   - "[[Obsidian to Anki (plugin)]]"
   - "[[问答题Anki卡片]]"
   - "[[填空题Cloze卡片]]"
-NextNote: "[[资源（部分版）：软件+网课链接]]"
-PrevNote: 
+NextNote: 
+PrevNote:
 ---
 **↑** 点击蓝字关注我，赋予我 **Passion** 写文！
 
